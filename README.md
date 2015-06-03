@@ -1,5 +1,5 @@
-# firefox-dark-theme-fix
-CSS configuration file for Firefox that fixed some appearance problems when using a dark theme on Ubuntu.
+# Firefox dark theme fix for Ubuntu
+## CSS configuration file for Firefox that fixes some appearance problems when using a dark theme on Ubuntu.
 Copy the following to the userContent.css file located in "~/.mozilla/firefox/randomstring.default/chrome".
 If the directory does not exist, create one. If the file does not exist, create one.
 
