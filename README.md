@@ -27,15 +27,15 @@ select {
   -moz-appearance: none !important;
 }
 
-  input[type="radio"],
-  input[type="checkbox"] {
+input[type="radio"],
+input[type="checkbox"] {
   border: 2px inset white ! important;
   background-color: white ! important;
   color: ThreeDFace ! important;
   -moz-appearance: none !important;
 }
 
-  *|*::-moz-radio {
+*|*::-moz-radio {
   background-color: white;
   -moz-appearance: none !important;
 }
